@@ -31,7 +31,7 @@ const A = [
   
 And then you are asked to rotate the matrix clockwise to print out to the console the new matrix of numbers as [[7,4,1],[8,5,2],[9,6,3]]. Check out the JS code to see how this is done!
 
-The hanoiTower HTML file allows you to play around with a series of 3 towers and 4 discs. The problem needs to be solved as the all 4 discs need to move to Tower C, but they are currently on Tower A. You can use Tower B as an intermederay for transferring discs, but you must move onen at a time and a larger disc cannot be placed on top of a smaller disc. If you load the HTML file in your browser and click the Make Move button you will see that the JavaScript codes moves the discs one at a time to the appropriate tower without breaking any of the rules. Make sure to grab the hanoi JS file and the style CSS file as well to make this work.
+The hanoiTower HTML file allows you to play around with a series of 3 towers and 5 discs. The problem needs to be solved as the all 5 discs need to move to Tower C, but they are currently on Tower A. You can use Tower B as an intermederay for transferring discs, but you must move onen at a time and a larger disc cannot be placed on top of a smaller disc. If you load the HTML file in your browser and click the Make Move button you will see that the JavaScript codes moves the discs one at a time to the appropriate tower without breaking any of the rules. Make sure to grab the hanoi JS file and the style CSS file as well to make this work.
 
 III. Future Improvements
 ----------
