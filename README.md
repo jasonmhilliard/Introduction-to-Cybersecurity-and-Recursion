@@ -23,7 +23,7 @@ const A = [
   
   ]
   
-And then are asked to rotate the matrix clockwise to print out to the console the new matrix of numbers as [[7,4,1],[8,5,2],[9,6,3]]. Check out the JS code to see how this is done!
+And then you are asked to rotate the matrix clockwise to print out to the console the new matrix of numbers as [[7,4,1],[8,5,2],[9,6,3]]. Check out the JS code to see how this is done!
 
 III. Future Improvements
 ----------
